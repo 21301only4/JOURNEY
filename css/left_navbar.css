@@ -42,7 +42,7 @@ div.block3 {
 
 footer {
     height: 10%;
-    background-color: rgb(160, 160, 160);
+    background-color: rgb(178, 250, 240, 0.548);
     color:black;
 }
 
@@ -71,9 +71,30 @@ div.intr_img img{
     padding: 5%;
 }
 
-div.stu_intr {
+div.stu1_intr {
     height: 100%;
-    background-color: burlywood;
+    background-image: url('../img/1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color:black;
+}
+
+div.stu2_intr {
+    height: 100%;
+    background-image: url('../img/9.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color:black;
+}
+
+div.stu3_intr {
+    height: 100%;
+    background-image: url('../img/3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
     color:black;
 }
 
